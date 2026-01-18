@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.debugpy",
+        "njpwerner.autodocstring",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "yzhang.markdown-all-in-one"
+    ]
+}
